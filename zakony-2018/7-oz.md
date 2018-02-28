@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Кемеровской области «Об областном бюджете на 2018 год и на плановый период 2019 и 2020 годов»
+Document type: Закон
+Number: 7-ОЗ
+Date signed: 2018-02-26
+Publication date: 2018-02-28
+Publication number: 4200201802280002
+Signing body: Кемеровская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/4200201802280002
