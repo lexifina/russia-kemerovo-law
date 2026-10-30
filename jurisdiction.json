@@ -1,0 +1,11 @@
+{
+  "path": "ru-kem",
+  "code": "RU-KEM",
+  "name": "Kemerovo Oblast (Kuzbass)",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kemerovo-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
