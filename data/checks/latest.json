@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:59:48Z",
+ "generated": "2026-11-26T06:16:45Z",
  "latest": {
   "pravo-kemerovo|russia/kemerovo/acts": {
    "attempt": 1,
@@ -12,26 +12,32 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1793,
+    "checked": 1794,
     "current": 1793,
     "gone": 0,
     "held": 1793,
     "newest_in_repo": "2026-11-24",
-    "pending": 0,
+    "pending": 1,
     "repo": 1793,
-    "source_in_scope": 1793
+    "source_in_scope": 1794
    },
-   "check_id": "ru-pravo-kemerovo-20261125T053621Z",
-   "commits": null,
+   "check_id": "ru-pravo-kemerovo-20261126T053119Z",
+   "commits": {
+    "count": 2,
+    "from": "64d5118ef430138c7d133ce407043faae5ce579f",
+    "to": "05965d500d59898d93d4d419df2bf8117f7dffd9"
+   },
    "corpus": "russia/kemerovo/acts",
    "error": null,
-   "finished": "2026-11-25T05:37:37Z",
+   "finished": "2026-11-26T05:32:17Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region42: 1793 law-type documents listed (every page read); 1793 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region42: 1794 law-type documents listed (every page read); 1793 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "4200202611250001"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +45,28 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "4200202611250001"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1793 law-type documents in block region42; newest published 2026-11-24",
+   "snapshot": "1794 law-type documents in block region42; newest published 2026-11-25",
    "source": "pravo-kemerovo",
-   "started": "2026-11-25T05:36:21Z",
+   "started": "2026-11-26T05:31:19Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261126-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 12,
-    "versions_checked": 430,
+    "versions_checked": 431,
     "versions_differ": 0
    }
   }
