@@ -3958,12 +3958,21 @@
     },
     {
      "from": "2026-11-24",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-24",
+     "status": "replaced",
      "text_as_of": null,
      "units": 147,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region42",
      "sha256": "a984775abe7a2288dfd600e613944017374a7543139b91945df089b6167595cf"
+    },
+    {
+     "from": "2026-11-25",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 148,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region42",
+     "sha256": "89a337524d48cf91bb6ac2a3448094aaf8aa26111bce1238278921c8a0862d4c"
     }
    ]
   }

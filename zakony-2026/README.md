@@ -1,6 +1,6 @@
 # Kemerovo Oblast (Kuzbass): catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 29 versions, from 2026-02-06 (latest in force: 2026-11-24) · <http://publication.pravo.gov.ru/documents/block/region42>
+Законы 2026 · 30 versions, from 2026-02-06 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region42>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -58,6 +58,7 @@
 | Закон № 145-ОЗ | [145-oz.md](145-oz.md) | 1 | 2026-11-24 |
 | Закон № 146-ОЗ | [146-oz.md](146-oz.md) | 1 | 2026-11-24 |
 | Закон № 147-ОЗ | [147-oz.md](147-oz.md) | 1 | 2026-11-24 |
+| Закон № 148-ОЗ | [148-oz.md](148-oz.md) | 1 | 2026-11-25 |
 | Закон № 15-ОЗ | [15-oz.md](15-oz.md) | 1 | 2026-03-05 |
 | Закон № 16-ОЗ | [16-oz.md](16-oz.md) | 1 | 2026-03-05 |
 | Закон № 17-ОЗ | [17-oz.md](17-oz.md) | 1 | 2026-03-05 |
