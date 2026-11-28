@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Kemerovo Oblast (Kuzbass): Official Internet Portal of Legal Information (region42)](http://publication.pravo.gov.ru/documents/block/region42) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-27 05:26 UTC | watched |
+| [Kemerovo Oblast (Kuzbass): Official Internet Portal of Legal Information (region42)](http://publication.pravo.gov.ru/documents/block/region42) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-28 05:35 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

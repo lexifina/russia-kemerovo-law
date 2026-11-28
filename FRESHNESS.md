@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Kemerovo Oblast (Kuzbass): Official Internet Portal of Legal Information (region42) · `russia/kemerovo/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:27 UTC**.
-- Acts held here: 1 794; current at the source: 1 794; changed at the source since the version held here: 1; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-28 05:36 UTC**.
+- Acts held here: 1 795; current at the source: 1 795; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
